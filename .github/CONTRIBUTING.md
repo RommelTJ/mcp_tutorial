@@ -1,6 +1,6 @@
-# Contributing to Project Dartboard
+# Contributing to MCP Tutorial
 
-♥ [Project Dartboard](https://github.com/RommelTJ/mcp_tutorial) and want to get involved?
+♥ [MCP Tutorial](https://github.com/RommelTJ/mcp_tutorial) and want to get involved?
 Thanks! We're actively looking for folks interested in helping out and there 
 are plenty of ways you can help!
 
